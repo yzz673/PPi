@@ -16,9 +16,9 @@ from torch.utils.data import DataLoader
 from sklearn.metrics import confusion_matrix, precision_recall_fscore_support
 from sklearn.metrics import accuracy_score, fbeta_score
 
-root_sampled_data_path = "/data/zdz/EEG/div_all_sampled_data"
-root_origin_data_path = "/data/zdz/EEG/data"
-root_power_path = "/data/yzz/BrainNet/power"
+root_sampled_data_path = "/root/sampled/data/path"
+root_origin_data_path = "/root/origin/data/path"
+root_power_path = "/root/power/path"
 
 
 class Metrics:

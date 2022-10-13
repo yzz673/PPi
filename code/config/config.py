@@ -4,7 +4,6 @@ import torch
 
 class Config(object):
 
-    """配置参数"""
     def __init__(self):
         self.src_patients, self.val_patients, self.tar_patients = None, None, None
         self.exp_id = None
