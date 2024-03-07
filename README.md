@@ -1,2 +1,2 @@
 # PPi (Pretraining-based model for Patient-independent seizure detection)
-* This repo contains the source code of PPi (in ./code).
+Due to the request from our collaboration partner, we are temporarily unable to share our code publicly. If you require access, please contact [zhizhangyuan@zju.edu.cn](mailto:zhizhangyuan@zju.edu.cn) **using your institutional email** and provide details about your institution and intended use. We will review your request and get in touch with you accordingly. Thank you for your attention.
